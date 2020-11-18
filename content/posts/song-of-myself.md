@@ -1,5 +1,5 @@
 ---
-date: 2019-07-22T22:44:38Z
+date: 2019-07-22T22:44:38.000+00:00
 title: Song of Myself
 author: Ralph Waldo Emerson
 hero_image: "/content/images/ren-ran-bBiuSdck8tU-unsplash.jpg"
@@ -18,7 +18,7 @@ Urge and urge and urge, Always the procreant urge of the world.
 
 Clear and sweet is my soul, and clear and sweet is all that is not my soul.
 
-![](/content/images/igor-son-FV_PxCqgtwc-unsplash.jpg)
+![](../images/igor-son-FV_PxCqgtwc-unsplash.jpg)
 
 Lack one lacks both, and the unseen is proved by the seen,  
  Till that becomes unseen and receives proof in its turn.
