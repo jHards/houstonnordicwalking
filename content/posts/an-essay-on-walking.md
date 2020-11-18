@@ -1,5 +1,5 @@
 ---
-date: 2019-07-31T22:43:31Z
+date: 2019-07-31T22:43:31.000+00:00
 title: An Essay on Walking
 author: Robert Thoreau
 hero_image: "/content/images/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
@@ -11,7 +11,7 @@ No doubt temperament, and, above all, age, have a good deal to do with it. As a 
 
 But the walking of which I speak has nothing in it akin to taking exercise, as it is called, as the sick take medicine at stated hours,–as the swinging of dumb-bells or chairs; but is itself the enterprise and adventure of the day. If you would get exercise, go in search of the springs of life. Think of a man’s swinging dumb-bells for his health, when those springs are bubbling up in far-off pastures unsought by him!
 
-![](/content/images/kunj-parekh-H69EgivmCjE-unsplash.jpg)
+![](../images/kunj-parekh-H69EgivmCjE-unsplash.jpg)
 
 Moreover, you must walk like a camel, which is said to be the only beast which ruminates when walking. When a traveller asked Wordsworth’s servant to show him her master’s study, she answered, “Here is his library, but his study is out of doors.
 
