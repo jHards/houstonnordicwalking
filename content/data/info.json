@@ -1,10 +1,10 @@
 {
-  "description": "<p>This blog was created using <a href=\"https://forestry.io/\" title=\"Forestry Link\">Forestry</a> &amp; <a href=\"https://www.gatsbyjs.org/\" title=\"Gatsby Link\">Gatsby</a></p>",
-  "cta": "<p>To get started, import this site into Forestry or checkout the repository <a href=\"https://github.com/kendallstrautman/starter-blog-gatsby\" title=\"Repo Url\">here</a>.</p>",
+  "description": "<p>Houston Nordic Walking - Houston's only Nordic walking workout! Nordic walking turns a walk into a workout using specially designed poles. It's outdoors, sociable, fun and works your whole body. Come and try Nordic walking with us!</p>",
+  "cta": "<p>Check out our <a href=\"https://www.meetup.com/Houston-Nordic-Walkers/\" title=\"Regular class schedule\">regular class schedule</a> or <a href=\"https://www.houstonnordicwalking.org/#contact-us\" title=\"Contact us\">contact us</a> to arrange a private lesson or for more information.</p>",
   "contact": {
-    "email": "info@forestry.io",
-    "twitter_handle": "forestryio",
-    "github_handle": "forestryio"
+    "email": "contact@houstonnordicwalking.org",
+    "twitter_handle": "",
+    "github_handle": ""
   },
   "background_color": "#B1BCBC"
 }
